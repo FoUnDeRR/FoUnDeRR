@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m @FoUnDeRR</h1>
-<h3 align="center">My hobby is programming and reaching new discovery.</h3>
+<h3 align="center">My hobby is programming and try something different. Also discover new things!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FoUnDeRR&label=Profile%20views&color=0e75b6&style=flat" alt="FoUnDeR" /> </p>
 
