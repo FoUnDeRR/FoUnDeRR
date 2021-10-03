@@ -3,9 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FoUnDeRR&label=Profile%20views&color=0e75b6&style=flat" alt="FoUnDeR" /> </p>
 
-<h3 align="left">My Trophies 🏆:</h3>
+<h3 align="left">My Trophies 🏆 :</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=FoUnDeRR" alt="FoUnDeR" /></a> </p>
 
+<h3 align="left">Describing myself 📜 :</h3>
 - 👋 Hi! my name is <b>FoUnDeR</b>.
 - 🔖 I'm basically <i><u>Learning about programming, javascript, HTML during corona</u></i>
 - 🤖 I've made a [discord](https://discord.com) bot call "Helpful bot"!.
