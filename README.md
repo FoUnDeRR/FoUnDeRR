@@ -11,7 +11,7 @@
 - 👋 Hi! my name is <b>FoUnDeR</b>.
 - 🔖 I'm basically <i><u>Learning about programming, JavaScript, HTML during corona and other dangerous viruses.</u></i>
 - 🤖 I've made a [discord](https://discord.com) bot call "Helpful bot" from Python. Now I'm currently working on with JavaScript. My new bot name is **Yelloo**. From JavaScript. The bot is under development due to new Discordjsv13 update..
-- ⚽ My goal is study in my school and learn coding.
+- 🏆 My goal is study in my school and learn coding.
 - 📂 Join my [discord server](https://discord.gg/v4gKRebgpc)!
 - That's it for today! Chao!
 
