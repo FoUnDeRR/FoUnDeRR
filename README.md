@@ -11,7 +11,7 @@
 - 🔖 I'm learning <i><u>programming, JavaScript, HTML and some other languagues to improve my knowledge in development.</u></i>
 - 🤖 I've made a [discord](https://discord.com) bot call "Helpful bot" from Python in 2021. At the moment, working on a private bot for my community, Disguide. I've provided a invitation link below. So don't hesitate to join.
 - 🏆 Managing several communities @ Discord. I'm a community manager & local moderator in Discord.
--  I'm a photoshop intermediate artist, graphic designer as well. If you're willing to know more about me, visit [here](https://imfounder.carrd.co).
+- 🎨 I'm a photoshop intermediate artist, graphic designer as well. If you're willing to know more about me, visit [here](https://imfounder.carrd.co).
 
 <h3 align="left">See me on Disguide!</h3>
 <a href="https://discord.gg/gCbMp9Ekz2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="yYREwM2vkq" height="30" width="40" /></a>
