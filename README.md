@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/itz_founder" target="blank"><img src="https://img.shields.io/twitter/follow/itz_founder?logo=twitter&style=for-the-badge" alt="itz_founder" /></a> </p>
 
-- I'm currently working on **A javascript discord bot for my community**
+- 💻 I'm currently working on **A javascript discord bot for my community**
 
 - 🌱 I’m currently learning **JavaScript, HTML and CSS.**
 
-- Currently developing a community @ Discord for creators and people who want to improve their different aspects in Discord. [Disguide](https://discord.gg/gCbMp9Ekz2)
+- 📐 Currently developing a community @ Discord for creators and people who want to improve their different aspects in Discord. [Disguide](https://discord.gg/gCbMp9Ekz2)
 
-- Working on a website development **Portfolio**
+- 📂 Working on a website development **Portfolio**
 
 - 👨‍💻 All of my projects are available at [https://imfounder.carrd.co](https://imfounder.carrd.co)
 
