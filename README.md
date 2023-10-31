@@ -4,7 +4,8 @@ I spend most of my time in Discord, making stuff from JavaScript and managing a 
 
 <img alt="GitHub" src="https://img.shields.io/badge/dynamic/json?logo=github&label=GitHub+Followers&labelColor=282c34&color=181717&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DFoUnDeRR&longCache=true"/> <img src="https://img.shields.io/github/stars/FoUnDeRR?label=Stars" alt="stars"> <img src="https://komarev.com/ghpvc/?username=FoUnDeRR&color=brightgreen" alt="watching_count" />
 
-
+I'm good at,
+[![My Skills](https://skillicons.dev/icons?i=javascript,figma,nodejs,css&theme=dark)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoUnDeRR&show_icons=true&bg_color=00000000)
 
