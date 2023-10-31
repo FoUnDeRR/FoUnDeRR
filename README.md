@@ -5,7 +5,7 @@ I spend most of my time in Discord, making stuff from JavaScript and managing a 
 
 
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=FoUnDeRR&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="my Github Stats"/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoUnDeRR&show_icons=true&bg_color=00000000)
 
 ![Metrics](https://metrics.lecoq.io/FoUnDeRR?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
 
