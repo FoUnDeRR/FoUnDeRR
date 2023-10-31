@@ -6,7 +6,7 @@ I spend most of my time in Discord, making stuff from JavaScript and managing a 
 
 I'm good at,
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,figma,nodejs,css,discord,html,ps,vscode,&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,figma,nodejs,css,html,ps,vscode,&theme=dark)](https://skillicons.dev)
 
 You'd see more often in,
 
