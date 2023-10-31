@@ -12,3 +12,5 @@ I spend most of my time in Discord, making stuff from JavaScript and managing a 
 <img src="https://myreadme.vercel.app/api/embed/FoUnDeRR?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=FoUnDeRR&theme=juicyfresh&no-bg=true" />
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoUnDeRR&layout=compact)
