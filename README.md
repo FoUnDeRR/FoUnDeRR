@@ -6,7 +6,10 @@ I spend most of my time in Discord, making stuff from JavaScript and managing a 
 
 I'm good at,
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,figma,nodejs,css&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,figma,nodejs,css,discord,html,ps,vscode,&theme=dark)](https://skillicons.dev)
+
+You'd see more often in,
+[![My Skills](https://skillicons.dev/icons?i=discord,twitter,instagram,github,facebook,youtube&theme=dark)](https://skillicons.dev)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=FoUnDeRR&show_icons=true&bg_color=00000000)
 
