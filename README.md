@@ -22,6 +22,6 @@ You'd see more often in,
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FoUnDeRR&layout=compact)
 
-![Snake animation](https://github.com/eagrundy/eagrundy/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/FoUnDeRR/FoUnDeRR/blob/output/github-contribution-grid-snake.svg)
  
 
