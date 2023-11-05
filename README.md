@@ -1,1 +1,3 @@
-<a href="#"><img src="[https://raw.githubusercontent.com/Zyrenth/Zyrenth/main/GitHub%20Portfolio%20v3.0.png](https://cdn.discordapp.com/attachments/965631519349682208/1170423786215059456/Github_Profile_Bio.png?ex=6558fd18&is=65468818&hm=cf90256402864e37f6090b7b1f913c20de2374aa2ceb91f44d15322b86da814c&)https://cdn.discordapp.com/attachments/965631519349682208/1170423786215059456/Github_Profile_Bio.png?ex=6558fd18&is=65468818&hm=cf90256402864e37f6090b7b1f913c20de2374aa2ceb91f44d15322b86da814c&"/></a>
+<a href="#"><img src="https://github.com/FoUnDeRR/FoUnDeRR/blob/main/Github%20Profile%20Bio.png" /></a>
+
+
