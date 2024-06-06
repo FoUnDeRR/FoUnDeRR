@@ -1,3 +1,3 @@
-<a href="#"><img src="https://github.com/FoUnDeRR/FoUnDeRR/blob/main/Github%20Profile%20Bio.png" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'm+a+developer+and;passionate+designer+in+discord)](https://git.io/typing-svg)
 
 
