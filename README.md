@@ -49,8 +49,6 @@ International Friendship Society - College-based project to connect and share kn
 # Thanks for reading!
 - If you read till the bottom, here is a little **[gift](https://youtu.be/ddIYuXHpKpA?si=DUvI32CCVcn3dr1o)** for you, and of course have a great and stellar day! :blue_heart: :shipit:
 
-<p align="center">
-    <img src="https://cdn.discordapp.com/attachments/1114207604869185576/1248712127263412329/My_Octocat.png?ex=6664a94b&is=666357cb&hm=eb640ab66e56c853cd7faa7578a19aae95445a2502590fe9353f89cc6b7d55a2&" alt="FoUnDeR's Octocat">
-</p>
+![FoUnDeR's Octocat](My_Octocat.png)
 
 <sup>[octocat source](https://myoctocat.com/build-your-octocat/)</sup>
