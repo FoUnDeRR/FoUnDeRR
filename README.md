@@ -29,10 +29,13 @@ International Friendship Society - College-based project to connect and share kn
 # Software I use for my work
 
 **IDEs (Integrated Development Environment)**
-[![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,sublime,idea)](https://skillicons.dev)
 
-**Platforms**
-[![IDEs](https://skillicons.dev/icons?i=discord,figma,github,twitter,ps)](https://skillicons.dev)
+[![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,sublime,idea,notion)](https://skillicons.dev)
+
+**Platforms & Interests**
+
+[![IDEs](https://skillicons.dev/icons?i=discord,figma,github,ps,webpack,apple,blender)](https://skillicons.dev)
 
 # Connect—between you and me
+> - Discord(https://discord.com/users/965629616012267570)
 
