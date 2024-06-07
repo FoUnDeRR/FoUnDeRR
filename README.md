@@ -37,5 +37,5 @@ International Friendship Society - College-based project to connect and share kn
 [![IDEs](https://skillicons.dev/icons?i=discord,figma,github,ps,webpack,apple,blender)](https://skillicons.dev)
 
 # Connect—between you and me
-> - Discord(https://discord.com/users/965629616012267570)
+> - [Discord](https://discord.com/users/965629616012267570)
 
