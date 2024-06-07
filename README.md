@@ -16,7 +16,7 @@
 | Senior Graphic Designer | 2021 - Current | Bringing what we create in our minds to life... |
 | Head Prefect of Sunday's School | 2023 - Current | Leading a team and taking part in leadership is what it is |
 
-**Projects**
+# **Projects**
 
 International Friendship Society - College-based project to connect and share knowledge with foreigner!
 
@@ -26,18 +26,13 @@ International Friendship Society - College-based project to connect and share kn
 
 [Datamining Hub](https://github.com/FoUnDeRR/datamining-hub) - Everything for you to know about Datamining and Resources of Discord from scratch.
 
+# Software I use for my work
+
+**IDEs (Integrated Development Environment)**
+[![IDEs](https://skillicons.dev/icons?i=vscode,visualstudio,sublime,idea)](https://skillicons.dev)
+
+**Platforms**
+[![IDEs](https://skillicons.dev/icons?i=discord,figma,github,twitter,ps)](https://skillicons.dev)
+
 # Connect—between you and me
 
-arduino
-electron
-kotlin
-
-discord
-figma
-github
-idea
-sublime
-twitter
-ps
-vscode
-visualstudio
