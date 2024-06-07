@@ -1,5 +1,13 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5865F2&random=false&width=435&lines=I'm+a+passionate+fullstack+developer;I'm+a+senior+moderator;I'm+a+graphic+designer)](https://git.io/typing-svg)
 
+---
+# Table of Content
+- [About me](https://github.com/FoUnDeRR#who-am-i)
+- [Projects](https://github.com/FoUnDeRR#projects)
+- [Preferences](https://github.com/FoUnDeRR#software-i-use-for-my-work)
+- [Contacts](https://github.com/FoUnDeRR#software-i-use-for-my-work)
+---
+
 # Who am I?
 > My name is `Risindu`, most of the time people recognize me as `FoUnDeR, Grzzly, Just Mighty Yeti`. Sailing from [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka) as a 15 year old full-stack developer.
 
