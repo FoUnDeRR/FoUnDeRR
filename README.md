@@ -1,9 +1,7 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5865F2&random=false&width=435&lines=I'm+a+passionate+fullstack+developer;I'm+a+senior+moderator;I'm+a+graphic+designer)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=5865F2&background=5865F200&center=true&vCenter=true&random=false&width=435&lines=I'm+Ranumitha.;A.K.A+FoUnDeR%2C;A.K.A+Just+Mighty+Yeti%2C;A.K.A+Grzzly.)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=5865F2&background=5865F200&random=false&width=435&lines=I'm+Ranumitha.;A.K.A+FoUnDeR%2C;A.K.A+Just+Mighty+Yeti%2C;A.K.A+Grzzly.)](https://git.io/typing-svg) 
 
 # Who am I?
-> My name is `Risindu`, most of the time people recognize me as `FoUnDeR, Grzzly, Just Mighty Yeti`. Sailing from [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka) as a 15 year old full-stack developer.
+> My name is `Ranumitha`, most of the time people recognize me as `FoUnDeR, Grzzly, Just Mighty Yeti`. Sailing from [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka) as a 15 year old full-stack developer.
 
 **Various languages and additional related subjects I'm working with**
 
@@ -39,5 +37,5 @@ International Friendship Society - College-based project to connect and share kn
 [![IDEs](https://skillicons.dev/icons?i=discord,figma,github,ps,webpack,apple,blender)](https://skillicons.dev)
 
 # Connect—between you and me
-> - [Discord](https://discord.com/users/965629616012267570)
+> - <kbd>[Discord](https://discord.com/users/965629616012267570)</kbd>
 
