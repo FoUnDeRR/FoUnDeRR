@@ -1,5 +1,8 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=5865F2&background=5865F200&random=false&width=435&lines=I'm+Ranumitha.;A.K.A+FoUnDeR%2C;A.K.A+Just+Mighty+Yeti%2C;A.K.A+Grzzly.)](https://git.io/typing-svg) 
 
+![Static Badge](https://img.shields.io/badge/discord-discord?style=for-the-badge&logo=discord&logoColor=%23FFFFFF&logoSize=auto&color=%235865F2&link=https%3A%2F%2Fdiscord.com%2Fusers%2F965629616012267570)
+
+
 # Who am I?
 > My name is `Ranumitha`, most of the time people recognize me as `FoUnDeR, Grzzly, Just Mighty Yeti`. Sailing from [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka) as a 15 year old full-stack developer.
 
