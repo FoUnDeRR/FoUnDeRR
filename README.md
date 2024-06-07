@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7A0A0&random=false&width=435&lines=I'm+a+passionate+fullstack+developer;I'm+a+senior+moderator;I'm+a+graphic+designer)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=5865F2&random=false&width=435&lines=I'm+a+passionate+fullstack+developer;I'm+a+senior+moderator;I'm+a+graphic+designer)](https://git.io/typing-svg)
 
 # Who am I?
 > My name is `Risindu`, most of the time people recognize me as `FoUnDeR, Grzzly, Just Mighty Yeti`. Sailing from [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka) as a 15 year old full-stack developer.
@@ -17,9 +17,13 @@
 | Head Prefect of Sunday's School | 2023 - Current | Leading a team and taking part in leadership is what it is |
 
 **Projects**
+
 International Friendship Society - College-based project to connect and share knowledge with foreigner!
+
 [Discord Insiders](https://discord.gg/cGvgpGTdDU) - Educate yourself about Discord and its components, including new features and frequent small changes, all in one place.
+
 [Rabbit College](https://github.com/rabbit-college/) - A small environment for professional developers & enthusiasts around Discord.
+
 [Datamining Hub](https://github.com/FoUnDeRR/datamining-hub) - Everything for you to know about Datamining and Resources of Discord from scratch.
 
 # Connect—between you and me
