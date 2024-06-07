@@ -1,4 +1,4 @@
-![FoUnDeR's Github Banner](https://cdn.discordapp.com/attachments/1114207604869185576/1248707744580505663/Banner.png?ex=6664a536&is=666353b6&hm=a0e085feb94d15a84b77417d2eb9222ca9993e44682a0fb23b8845102d833970&)
+![FoUnDeR's Github Banner](Banner.png)
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=5865F2&background=5865F200&random=false&width=435&lines=I'm+Ranumitha.;A.K.A+FoUnDeR%2C;A.K.A+Just+Mighty+Yeti%2C;A.K.A+Grzzly.)](https://git.io/typing-svg) 
 
