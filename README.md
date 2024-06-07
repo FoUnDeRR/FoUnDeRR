@@ -40,6 +40,11 @@ International Friendship Society - College-based project to connect and share kn
 
 [![IDEs](https://skillicons.dev/icons?i=discord,figma,github,ps,webpack,apple,blender)](https://skillicons.dev)
 
+# Contributions
+<div align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/FoUnDeRR/FoUnDeRR/output/github-contribution-grid-snake.svg" />
+</div>
+
 # Connect—between you and me
 > - <kbd>[Discord](https://discord.com/users/965629616012267570)</kbd>
 > - <kbd>[Twitter](https://x.com/JustMightyYeti)</kbd>
@@ -52,12 +57,3 @@ International Friendship Society - College-based project to connect and share kn
 ![FoUnDeR's Octocat](My_Octocat.png)
 
 <sup>[octocat source](https://myoctocat.com/build-your-octocat/)</sup>
-
-
-<div align="center">
-  <h2>Contributions</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/FoUnDeRR/FoUnDeRR/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
