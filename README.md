@@ -16,6 +16,12 @@
 | Senior Graphic Designer | 2021 - Current | Bringing what we create in our minds to life... |
 | Head Prefect of Sunday's School | 2023 - Current | Leading a team and taking part in leadership is what it is |
 
+**Projects**
+International Friendship Society - College-based project to connect and share knowledge with foreigner!
+[Discord Insiders](https://discord.gg/cGvgpGTdDU) - Educate yourself about Discord and its components, including new features and frequent small changes, all in one place.
+[Rabbit College](https://github.com/rabbit-college/) - A small environment for professional developers & enthusiasts around Discord.
+[Datamining Hub](https://github.com/FoUnDeRR/datamining-hub) - Everything for you to know about Datamining and Resources of Discord from scratch.
+
 # Connect—between you and me
 
 arduino
