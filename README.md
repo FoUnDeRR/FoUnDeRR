@@ -52,3 +52,12 @@ International Friendship Society - College-based project to connect and share kn
 ![FoUnDeR's Octocat](My_Octocat.png)
 
 <sup>[octocat source](https://myoctocat.com/build-your-octocat/)</sup>
+
+
+<div align="center">
+  <h2>Contributions</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/FoUnDeRR/FoUnDeRR/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
