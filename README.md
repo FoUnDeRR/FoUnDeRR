@@ -3,7 +3,9 @@
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=5865F2&background=5865F200&random=false&width=435&lines=I'm+Ranumitha.;A.K.A+FoUnDeR%2C;A.K.A+Just+Mighty+Yeti%2C;A.K.A+Grzzly.)](https://git.io/typing-svg) 
 
 # Who am I?
-> My name is `Ranumitha`, most of the time people recognize me as `FoUnDeR, Grzzly, Just Mighty Yeti`. Sailing from [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka) as a 15 year old full-stack developer.
+> My name is `Ranumitha`, Sailing from [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka) as a _15 year old_ full-stack developer. My hobbies often revolve around programming, sports, and other life activities. I have five rabbits and two turtles to provide love and care for them which relax my mind. Loves listening to pop music, here's [my 2024 spotify playlist](https://open.spotify.com/playlist/1y4DzCJVfeCzMk3VqNJaH1?si=eb1e8518c9f349e1&nd=1&dlsi=d3b0aa40ca654613). 
+
+> I used to be a small content creator back in the day, but now I'm smashing keyboard keys to develop experiences and play games for fun. I might rework on my YouTube channel in the future, who knows :shipit:. Making discord apps using discord.js and javascript satisfies me a lot, and by doing that I learn more things about both Discord and javascript.
 
 **Various languages and additional related subjects I'm working with**
 
@@ -45,10 +47,10 @@ International Friendship Society - College-based project to connect and share kn
 > - <kbd>[Instagram](https://www.instagram.com/itz.mightyyeti/)</kbd>
 
 # Thanks for reading!
-- If you read till the bottom, here is a little **[gift](https://youtu.be/ddIYuXHpKpA?si=DUvI32CCVcn3dr1o)** for you, and of course have a great and stellar day!
+- If you read till the bottom, here is a little **[gift](https://youtu.be/ddIYuXHpKpA?si=DUvI32CCVcn3dr1o)** for you, and of course have a great and stellar day! :blue_heart: :shipit:
 
 <p align="center">
     <img src="https://cdn.discordapp.com/attachments/1114207604869185576/1248712127263412329/My_Octocat.png?ex=6664a94b&is=666357cb&hm=eb640ab66e56c853cd7faa7578a19aae95445a2502590fe9353f89cc6b7d55a2&" alt="FoUnDeR's Octocat">
 </p>
 
-#### <sup>[octocat source](https://myoctocat.com/build-your-octocat/)</sup>
+<sup>[octocat source](https://myoctocat.com/build-your-octocat/)</sup>
