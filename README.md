@@ -1,6 +1,8 @@
 ![FoUnDeR's Github Banner](Banner.png)
 
-# [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=5865F2&background=5865F200&random=false&width=435&lines=I'm+Ranumitha.;A.K.A+FoUnDeR%2C;A.K.A+Just+Mighty+Yeti%2C;A.K.A+Grzzly.)](https://git.io/typing-svg) 
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=30&pause=1000&color=5865F2&background=5865F200&random=false&width=435&lines=I'm+Ranumitha.;A.K.A+FoUnDeR%2C;A.K.A+Just+Mighty+Yeti%2C;A.K.A+Grzzly."/></a>
+</p>
 
 # Who am I?
 > My name is `Ranumitha`, Sailing from [Sri Lanka](https://en.wikipedia.org/wiki/Sri_Lanka) as a _15 year old_ full-stack developer. My hobbies often revolve around programming, sports, and other life activities. I have five rabbits and two turtles to provide love and care for them which relax my mind. Loves listening to pop music, here's [my 2024 spotify playlist](https://open.spotify.com/playlist/1y4DzCJVfeCzMk3VqNJaH1?si=eb1e8518c9f349e1&nd=1&dlsi=d3b0aa40ca654613). 
